@@ -23,7 +23,7 @@
       }
     },
     "web": {
-      "favicon": "./src/assets/favicon.png"
+      "favicon": "./src/assets/logoicon.png"
     },
     "plugins": [
       "expo-font",
